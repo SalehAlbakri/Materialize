@@ -1,0 +1,16 @@
+.logo {
+    margin-left: 25px;
+    width: 25%;
+    height: 100%;
+}
+
+.display > div {
+    width: 250px;
+    margin: 10px 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.display img {
+    height: 250px;
+}
